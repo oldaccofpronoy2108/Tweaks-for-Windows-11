@@ -10,3 +10,8 @@ This repository contains all the tweaks that a Windows 11 user would need.
 
 ---
 
+## Optional Tweaks
+
+*[Classic Shell](http://www.classicshell.net/)
+*[PowerToys](https://github.com/Microsoft/PowerToys)
+*[Winaero Tweaker](https://winaero.com/download-winaero-tweaker/)
