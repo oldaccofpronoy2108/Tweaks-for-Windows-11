@@ -12,6 +12,6 @@ This repository contains all the tweaks that a Windows 11 user would need.
 
 ## Optional Tweaks
 
-* [OpenShell (fork of Classic Shell)]()
+* [Open-Shell (Fork of Classic Shell)](https://github.com/Open-Shell/Open-Shell-Menu)
 * [PowerToys](https://github.com/Microsoft/PowerToys)
 * [Winaero Tweaker](https://winaero.com/download-winaero-tweaker/)
